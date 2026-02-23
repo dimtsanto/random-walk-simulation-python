@@ -19,6 +19,12 @@ This Python program simulates a simple random walk in one dimension.
 
   It will show the paths and a histogram of final positions.
 
+## Plots
+
+![Histogram](histogram.png)
+![One walk path](walk_path.png)
+![All walk paths](all_paths.png)
+
 ## Requirements
 
 - Python 3
